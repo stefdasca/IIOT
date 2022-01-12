@@ -6,7 +6,7 @@ RO: Acest repo serveste drept arhiva cu problemele date la Olimpiada Nationala d
 
 [Site IIOT](http://cni.nt.edu.ro/ioit/)
 
-[Link de drive](https://drive.google.com/drive/folders/138n-GozNv95oDHVLAX9qHPqrgfDqwooc) cu toate problemele, testele, solutiile oficiale la problemele date incepand cu 2020
+[Link de drive](https://drive.google.com/drive/folders/138n-GozNv95oDHVLAX9qHPqrgfDqwooc) cu toate problemele, testele, solutiile oficiale la problemele date incepand cu 2020-21
 
 [Link probleme IIOT date de italieni](https://training.olinfo.it/#/tasks/1?tag=ois)
 
